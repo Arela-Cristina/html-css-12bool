@@ -1,0 +1,6 @@
+/*DEBUG*/
+[class*="col-"] {
+    min-height: 100px;
+    background-color: pink;
+    border: solid 1px black;
+}
