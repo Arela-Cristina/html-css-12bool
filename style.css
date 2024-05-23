@@ -23,6 +23,11 @@
     margin-bottom: 30px;
 }
 
+.box {
+    border-style: none;
+    background-color: white;
+}
+
 /*BG-COLOR*/
 
 .bg-white {
