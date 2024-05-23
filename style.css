@@ -14,8 +14,16 @@
     justify-content: space-around;
 }
 
+.between {
+    align-content: space-between;
+}
+
 .no-wrap {
     flex-wrap: nowrap;
+}
+
+.min-h80 {
+    min-height: 80px;
 }
 
 .mx-b {
