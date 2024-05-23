@@ -18,6 +18,10 @@
     align-content: space-between;
 }
 
+.between-x {
+    justify-content: space-between;
+}
+
 .no-wrap {
     flex-wrap: nowrap;
 }
